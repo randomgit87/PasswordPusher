@@ -1,7 +1,7 @@
 # pwpush-ephemeral
 FROM ruby:3.0.2
 
-LABEL maintainer='pglombardo@hey.com'
+LABEL maintainer='jesse@collettsystems.com'
 
 ENV APP_ROOT=/opt/PasswordPusher
 ENV PATH=${APP_ROOT}:${PATH} HOME=${APP_ROOT}
