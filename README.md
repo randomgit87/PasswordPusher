@@ -1,10 +1,7 @@
 <div align="center">
 
-<<<<<<< HEAD
 ![Password Pusher Front Page](https://disznc.s3.amazonaws.com/Screen-Shot-2021-07-04-at-9.04.09-PM.png)
-=======
 PasswordPusher is an opensource application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.
->>>>>>> origin/pwpush.com
 
 [![](https://badgen.net/twitter/follow/pwpush)](https://twitter.com/pwpush)
 ![](https://badgen.net/github/stars/pglombardo/PasswordPusher)
@@ -138,7 +135,6 @@ Also thanks to [translation.io](https://translation.io) for their great service 
 
 ## Containers
 
-<<<<<<< HEAD
 Thanks to:
 
 * [@fiskhest](https://github.com/fiskhest) the [Kubernetes installation instructions and manifests](https://github.com/pglombardo/PasswordPusher/tree/master/containers/kubernetes).
@@ -156,5 +152,3 @@ Thanks to:
 * [JarvisAndPi](http://www.reddit.com/user/JarvisAndPi) for the favicon design
 
 ...and many more.  See the [Contributors page](https://github.com/pglombardo/PasswordPusher/graphs/contributors) for more details.
-=======
->>>>>>> origin/pwpush.com
