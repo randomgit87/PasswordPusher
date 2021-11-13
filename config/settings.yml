@@ -37,13 +37,4 @@ mail:
   # mailer_sender: '"Password Pusher" <pglombardo@pwpush.com>'
 
 language_codes:
-  de: 'Deutsch'
   en: 'English'
-  it: 'Italiano'
-  es: 'Español'
-  fr: 'Français'
-  nl: 'Nederlands'
-  pl: 'Polski'
-  sr: 'Српски'
-  sv: 'Svenska'
-
